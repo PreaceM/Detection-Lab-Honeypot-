@@ -55,7 +55,7 @@ The Honeypot Implementation project aimed to create a controlled environment for
        style="border: 1px solid #24292e;">
 </a>
 
-*Ref 1: Video showing the honeypot implementation proccess*
+*Ref 1: Video showing the honeypot implementation proccess.*
 ### Cowrie Honeypot Project Implementation
 
 #### Implementation Steps
